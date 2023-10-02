@@ -8,6 +8,8 @@ Noe
 ### Participants HS23
 
 - https://github.com/noeleont
+- https://github.com/lieselty
+- https://github.com/ThoSch94
 
 <!--
 
